@@ -8,3 +8,7 @@ Here you can find different simple Python codes. And I used functions.
 
 # remove_F&L_char
 - This code removes the first and last character of a text.
+
+# count_all_letter
+- This code counts all letters of a text.
+- It returns the number of characters, digits, and symbols of the text.
