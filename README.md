@@ -12,3 +12,6 @@ Here you can find different simple Python codes. And I used functions.
 # count_all_letter
 - This code counts all letters of a text.
 - It returns the number of characters, digits, and symbols of the text.
+
+# check_occurences 
+- This code returns the number of times that a number or characters appeared in a string.
