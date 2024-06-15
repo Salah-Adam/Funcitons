@@ -1,0 +1,14 @@
+def arrange_str_char(text):
+    lowercase_cha = ""
+    uppercase_char = ""
+    for t in text:
+        if t.isalpha():
+            if t.islower():
+                lowercase_cha += t
+            else:
+                uppercase_char += t
+    return lowercase_cha + uppercase_char
+
+print(arrange_str_char("PyNaTive"))
+print(arrange_str_char("Upper2Case"))
+print(arrange_str_char("SchOOL"))
